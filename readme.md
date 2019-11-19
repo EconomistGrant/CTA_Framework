@@ -1,8 +1,8 @@
-#注：回测主要用的是Joinquant的数据，可以直接到Joinquant文件夹查看
+#Important: the data used is from JoinQuant API: its website offers 1-year free account
 
-#母目录#
+#Main Repo#
 IH.py IC.py contract.py 
-从公司数据库中获取IH IC期货近月产品 merge。
+getting data from Corporate SQL database
 得到ICtable_new.csv ICtable_new.csv contract.csv
 
 #JoinQuant文件夹#
