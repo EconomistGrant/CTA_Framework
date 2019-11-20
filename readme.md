@@ -6,10 +6,10 @@ getting data from Corporate SQL database
 得到ICtable_new.csv ICtable_new.csv contract.csv
 
 #JoinQuant文件夹#
-通过JoinQuant得到的数据，是回测主要用的数据
+Data required from JoinQuant API
 
 winrate.py
-计算胜率的API 可以在比如3_signals.py中看到怎么调用
+API for calculating winning rate of a strategy
 
 joinquant_future.py:
 从Joinquant获取期货数据。得到future.csv
