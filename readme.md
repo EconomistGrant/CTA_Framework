@@ -3,7 +3,7 @@
 #Main Repo#
 IH.py IC.py contract.py 
 getting data from Corporate SQL database
-得到ICtable_new.csv ICtable_new.csv contract.csv
+data retrieved： ICtable_new.csv ICtable_new.csv contract.csv
 
 #JoinQuant文件夹#
 Data required from JoinQuant API
