@@ -1,11 +1,12 @@
-#Important: the data used is from JoinQuant API: its website offers 1-year free account
+# Important: 
+the data used is from JoinQuant API: its website offers 1-year free account
 
-#Main Repo#
+# Main
 IH.py IC.py contract.py 
 getting data from Corporate SQL database
 data retrieved： ICtable_new.csv ICtable_new.csv contract.csv
 
-#JoinQuant文件夹#
+# JoinQuant文件夹
 Data required from JoinQuant API
 
 winrate.py
@@ -30,7 +31,7 @@ firstmins.py
 multi-strategy.py
 两个子策略同时运行
 
-#Basis文件价#
+# Basis文件价
 basis_minutes.py
 前一交易日收盘前x分钟基差变化
 basis.py
@@ -38,10 +39,10 @@ basis.py
 basis_first_mins.py
 当日开盘价格变化
 
-#first-mins文件夹#
+# first-mins文件夹
 存储JoinQuant/firstmins.py运行的结果
 也被用到basis里面读取并计算
 
-#last_money文件夹#
+# last_money文件夹
 money.py
 研究前日收盘集合竞价的成交金额(成交量)，生成第二天的交易信号
